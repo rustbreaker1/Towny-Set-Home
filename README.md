@@ -13,7 +13,7 @@ The Minecraft Town Home Plugin is a custom plugin for Minecraft servers that all
 
 ## Installation
 
-1. Download the `TownSetHome.jar` file from the [plugin's release page](https://example.com/plugin-releases).
+1. Download the `TownSetHome.jar` file from the [plugin's release page]([https://example.com/plugin-releases](https://www.spigotmc.org/resources/townysethome-plugin.112314/)).
 2. Place the `TownSetHome.jar` file in your server's `plugins` directory.
 3. Restart or reload your Minecraft server.
 
